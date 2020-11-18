@@ -8,7 +8,7 @@ metadata:
 spec:
   project: previews
   source:
-    repoURL: https://github.com/vfarcic/argocd-previews.git
+    repoURL: https://github.com/anais-codefresh/argocd-previews.git
     targetRevision: HEAD
     path: helm
   destination:
